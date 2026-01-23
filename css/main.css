@@ -1,9 +1,9 @@
 /*----------------------------------------
 [Master Stylesheet]
 
-Project:	FlixTV HTML Template
+Project:	Watch More HTML Template
 Version:	1.0
-Primary use:	FlixTV HTML Template
+Primary use:	Watch More HTML Template
 ----------------------------------------*/
 /*----------------------------------------
 [Table of contents]
@@ -216,7 +216,7 @@ body::-webkit-scrollbar-thumb {
   width: 50px;
 }
 .header__logo img {
-  width: 100%;
+  width: 60%;
   height: auto;
 }
 .header__nav {
